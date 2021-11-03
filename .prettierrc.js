@@ -10,7 +10,7 @@ module.exports = {
   jsxSingleQuote: false,
   trailingComma: "es5",
   bracketSpacing: true,
-  jsxBracketSameLine: false,
+  bracketSameLine: true,
   arrowParens: "avoid",
   requirePragma: false,
   insertPragma: false,
